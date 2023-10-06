@@ -37,7 +37,7 @@ public class Boletin05_01 {
         System.out.println("Tiempo viaje = "+consume.getTempo()+" Horas");
         
         // Constructor parametrizado
-        consumo consumo = new consumo(100,100,100,1.7f);
+        consumo consumo = new consumo(km,litros,vMed,pGas);
         //consumo.consumo(km,litros,vMed,pGas);
         System.out.println("Consumo medio = "+consumo.consumoMedio()+" litros/km");
         System.out.println("Velocidade media = "+consumo.getvMed()+" Km/h");
