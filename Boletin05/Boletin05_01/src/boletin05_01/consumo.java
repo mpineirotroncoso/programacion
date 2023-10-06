@@ -13,11 +13,12 @@ public class consumo {
         private float litros;
         private float vMed;
         private float pGas;
-    public void consumo() { 
+
+    public consumo() { 
     
     }
     
-    public void consumo(float km, float litros, float vMed, float pGas) {
+    public consumo(float km, float litros, float vMed, float pGas) {
         this.km = km;
         this.litros = litros;
         this.vMed = vMed;
