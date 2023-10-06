@@ -34,12 +34,14 @@ public class Boletin05_01 {
         consume.setvMed(vMed);
         System.out.println("Consumo medio = "+consume.consumoMedio()+" litros/km");
         System.out.println("Velocidade media = "+consume.getvMed()+" Km/h");
+        System.out.println("Tiempo viaje = "+consume.getTempo()+" Horas");
         
         // Constructor parametrizado
         consumo consumo = new consumo();
         consumo.consumo(km,litros,vMed,pGas);
         System.out.println("Consumo medio = "+consumo.consumoMedio()+" litros/km");
         System.out.println("Velocidade media = "+consumo.getvMed()+" Km/h");
+        System.out.println("Tiempo viaje = "+consume.getTempo()+" Horas");
     }
     
 }
