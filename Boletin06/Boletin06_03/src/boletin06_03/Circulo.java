@@ -9,10 +9,9 @@ package boletin06_03;
  * @author dam1
  */
 public class Circulo {
-    private final double pi = 3.14;
+    private final double PI = 3.14;
     double radio;
     public Circulo () {
-
     }
     
     public Circulo (double rad) {
@@ -27,10 +26,10 @@ public class Circulo {
     }
     
     public double calcularArea(){
-        return pi*Math.pow(radio, 2);
+        return PI*Math.pow(radio, 2);
     }
     
     public double calcularLonxitude(){
-        return 2*pi*radio;
+        return 2*PI*radio;
     }
 }

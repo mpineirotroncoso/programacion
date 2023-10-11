@@ -4,6 +4,7 @@
  */
 package boletin06_03;
 
+
 /**
  *
  * @author dam1
@@ -16,6 +17,7 @@ public class Boletin06_03 {
     public static void main(String[] args) {
         // TODO code application logic here
         //constructor parametrizado
+        
         Circulo circulo = new Circulo(100);
         System.out.println("Area del circulo = "+circulo.calcularArea());
         System.out.println("Lonxitude del circulo = "+circulo.calcularLonxitude());
