@@ -15,13 +15,13 @@ Todos los boletines de programacion van aqui
 | [ Ejercicio 4 ]( Boletin03/Boletin03_04/src/boletin3_4/ ) | [ Ejercicio 5 ]( Boletin03/Boletin03_05/src/boletin3_5/ ) |  |
 
 
-| Boletin 4 |  |  |
-|---|---|---|
-| [ Ejercicio 1 ]( Boletin04/Boletin04_01/src/boletin04_01/ ) |  |  |
+| Boletin 4 |
+|---|
+| [ Ejercicio 1 ]( Boletin04/Boletin04_01/src/boletin04_01/ ) |
 
-| Boletin 5 |  |  |
-|---|---|---|
-| [ Ejercicio 1 ]( Boletin05/Boletin05_01/src/boletin05_01/ )  |  |  |
+| Boletin 5 |
+|---|
+| [ Ejercicio 1 ]( Boletin05/Boletin05_01/src/boletin05_01/ )  |
 
 | Boletin 6 |  |  |
 |---|---|---|
