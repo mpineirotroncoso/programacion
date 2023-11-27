@@ -40,4 +40,24 @@ Todos los boletines de programacion van aqui
 |---|---|---|
 | [  Ejercicio 1  ]( Boletin09/Boletin09_01/src/boletin09_01/ ) | [  Ejercicio 2  ]( Boletin09/Boletin09_02/src/boletin09_02/ )  | [  Ejercicio 3  ]( Boletin09/Boletin09_03/src/boletin09_03/ ) |
 
+| Boletin 11 |  |
+|---|---|
+| [  Ejercicio 1  ]( Boletin11/Boletin11_01/src/boletin11_01/ ) | [  Ejercicio 2  ]( Boletin11/Boletin11_02/src/boletin11_02/ )  |
+
+
+| Boletin 12 |
+|---|
+| [  Ejercicio 1  ]( Boletin12/Boletin12_01/src/boletin12_01/ ) |
+
+
+| Boletin 14 |
+|---|
+| [  Ejercicio 1  ]( Boletin14/Boletin14_01/src/ ) |
+
+
+| Boletin 16 |
+|---|
+| [  Ejercicio 1  ]( Boletin14/Boletin14_01/src/boletin16/ ) |
+
+
 ![](https://raw.githubusercontent.com/mpineirotroncoso/programacion/main/Img/Imagen.png)
