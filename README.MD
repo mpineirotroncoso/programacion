@@ -52,12 +52,12 @@ Todos los boletines de programacion van aqui
 
 | Boletin 14 |
 |---|
-| [  Ejercicio 1  ]( Boletin14/Boletin14_01/src/ ) |
+| [  Ejercicio 1  ]( Boletin14/Boletin14/src ) |
 
 
 | Boletin 16 |
 |---|
-| [  Ejercicio 1  ]( Boletin14/Boletin14_01/src/boletin16/ ) |
+| [  Ejercicio 1  ]( Boletin16/Boletin16/src/boletin16 ) |
 
 
 ![](https://raw.githubusercontent.com/mpineirotroncoso/programacion/main/Img/Imagen.png)
