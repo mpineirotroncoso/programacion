@@ -54,6 +54,9 @@ Todos los boletines de programacion van aqui
 |---|
 | [  Ejercicio 1  ]( Boletin14/Boletin14/src ) |
 
+| Boletin 15 |
+|---|
+| [  Ejercicio 1  ]( Boletin15/src/herdanzas ) |
 
 | Boletin 16 |
 |---|
