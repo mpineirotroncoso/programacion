@@ -39,6 +39,7 @@ Todos los boletines de programacion van aqui
 | Boletin 9 |  |  |
 |---|---|---|
 | [  Ejercicio 1  ]( Boletin09/Boletin09_01/src/boletin09_01/ ) | [  Ejercicio 2  ]( Boletin09/Boletin09_02/src/boletin09_02/ )  | [  Ejercicio 3  ]( Boletin09/Boletin09_03/src/boletin09_03/ ) |
+| [  Ejercicio 4  ]( Boletin09/Boletin09_04/src/boletin09_04/ ) |  |  |
 
 | Boletin 11 |  |
 |---|---|
