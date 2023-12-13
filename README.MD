@@ -67,4 +67,8 @@ Todos los boletines de programacion van aqui
 |---|
 | [  Ejercicio 1  ]( Boletin17/src/boletin17 ) |
 
+| Boletin 18 |  |
+|---|---|
+| [  Ejercicio 1  ]( Boletin18/Boletin18_01/src/boletin18_01/ ) | [  Ejercicio 2  ]( Boletin18/Boletin18_02/src/boletin18_02/ )  |
+
 ![](https://raw.githubusercontent.com/mpineirotroncoso/programacion/main/Img/Imagen.png)
